@@ -1,4 +1,5 @@
 # llm_api Can He & Qianqian Yu
+Type a mood and get an emoji back
 ```bash
 pip install -U google-genai
 source .env
